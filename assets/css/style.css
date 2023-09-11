@@ -287,13 +287,13 @@ h6 {
   border-bottom: 3px solid #149ddd;
 }
 
-@media (min-width: 80%) {
+@media (min-width:768px) {
   #hero {
     background-attachment: fixed;
   }
 }
 
-@media (max-width: 80%) {
+@media (max-width:768px) {
   #hero h1 {
     font-size: 28px;
     line-height: 36px;
