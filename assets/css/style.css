@@ -260,14 +260,14 @@ h6 {
 #hero .hero-container {
   position: relative;
   z-index: 2;
-  margin-left: -50 px;
+  margin-left: -50px;
   min-width: 200px;
 }
 
 #hero h1 {
   margin: 0 0 10px 0;
   font-size: 30px;
-  font-weight: 200;
+  font-weight: bold;
   line-height: 90px;
   color: #000000;
 }
@@ -277,7 +277,7 @@ h6 {
   margin-bottom: 50px;
   font-size: 15px;
   font-family: "Poppins", sans-serif;
-  font-weight: 200;
+  font-weight: bold;
 }
 
 #hero p span {
